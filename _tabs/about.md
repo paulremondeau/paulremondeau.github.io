@@ -12,9 +12,9 @@ I am a 26 years old 🇫🇷 Data Scientist currently living in 🇨🇭 Neuchâ
 
 # What can I find here ?
 
-Here you can find my personnal works I made on y free time.
+Here you can find my personnal works I made on my free time.
 
-All of them are open source and can be found on my github page !
+All of them are open source and can be found on my [github](https://github.com/paulremondeau) page !
 
 # My programing languages and Framework
 
