@@ -33,7 +33,7 @@ The backend serves 3 purposes :
 The main file is app.py, where my application is defined. It is where the database is created and updated,
 and where the endpoints route are defined.
 
-If you are interested to see the documentation of the backend source files, follow this [github](https://github.com/paulremondeau/fullStocks). It was made with Sphinx and is automatically created on push on the main branch !
+If you are interested to see the documentation of the backend source files, follow this [link](https://paulremondeau.github.io/fullStocks/). It was made with Sphinx and is automatically created on push on the main branch !
 
 Furtheremore, you can directly have access to the Swagger UI of the API ! Feel free to check it out [here](https://fullstocks-backend.onrender.com/api/docs).
 
