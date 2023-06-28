@@ -373,6 +373,11 @@ let marketData = fetchBackend("market", "get")
 
 Thanks to this simplification of the API requesting, you can have a cleaner and easier maintained code!
 
+If something goes wrong during the backend api requests, notifications appears at bottom right to give insights of the issue :
+
+![Notif](/commons/fullstocks/notification.png)
+*Too much API credits were used !*
+
 ### Testing
 
 Just like the backend, you should (and must) test the code of your application !
@@ -557,4 +562,4 @@ be able to deploy on Render. Our CI/CD chain is complete !
 
 ## End words
 
-Thank you for reading this, I had a lot of fun making this project and I am looking forward to make new ones soon enough !
+Thank you for reading this, I had a lot of fun making this project and I am looking forward to make new ones soon enough !Switzerland
