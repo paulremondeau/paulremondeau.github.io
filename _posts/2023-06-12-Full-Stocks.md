@@ -15,9 +15,6 @@ katex: true
 
 This project is a full stack web-application made in :
 
-
-
-
 <div style="display: flex; justify-content: space-between;">
   <div style="display: inline; align-items: center; text-align: center">
     <p>Backend</p>
