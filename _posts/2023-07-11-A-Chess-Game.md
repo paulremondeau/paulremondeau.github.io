@@ -5,8 +5,8 @@ categories: [Project]
 tags: [scala]     # TAG names should always be lowercase
 author: paul_remondeau
 image:
-  path: /commons/chess/chess_board.png
-  alt: A chess game in Scala.
+  path: /commons/chess/chess_board_react.png
+  alt: A chess game in React.
 katex: true
 ---
 
@@ -26,7 +26,7 @@ The goal of the project is to make a workable chess game that you can play on yo
 Project situation :
 - [x] Scala backend
 - [ ] Scala API
-- [ ] React frontend
+- [x] React frontend
 
 You can find the project source code on [GitHub](https://github.com/paulremondeau/chess).
 
@@ -97,3 +97,17 @@ The game goes on like this :
 * The player choose the square it wants to move the piece on.
 * It's the opponent turn.
 * It goes on until one of them wins, or a draw appears.
+
+To debug the main game, it was usefull to print the board in the terminal :
+![BDD](/commons/chess/chess_board_scala.png)
+*The chess board in the terminal*
+
+
+## React Frontend
+
+The frontend of the application is made in React and TypeScript. 
+
+![BDD](/commons/chess/chess_board_react.png)
+*The chess board of the application*
+
+
