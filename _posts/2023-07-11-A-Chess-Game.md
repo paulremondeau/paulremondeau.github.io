@@ -2,22 +2,36 @@
 title: A chess game
 date: 2023-07-11 17:06:00 +0200
 categories: [Project]
-tags: [scala]     # TAG names should always be lowercase
+tags: [scala, react, typescript, docker]     # TAG names should always be lowercase
 author: paul_remondeau
 image:
-  path: /commons/chess/chess_board_react.png
+  path: /commons/chess/chess_board_react_preview.png
   alt: A chess game in React.
 katex: true
 ---
 
 This project is a self-made chess game built with :
 
-<div style="display: flex; justify-content: center;">
-  <div style="display: inline; align-items: center; text-align: center">
-    <!-- <p>Backend</p> -->
-    <div>
+<div style="display: flex; justify-content: space-evenly">
+  <div style="display: inline; align-items: center; text-align: center; padding:10px;">
+    <p>Backend</p>
+    <div style="display: grid;">
         <img src="/commons/stacks/scala.png" width="80" /> 
+         <img src="/commons/stacks/scala_http4s.svg" width="80" /> 
     </div>
+
+  
+  </div>
+  <div style="display: inline; align-items: center; text-align: center; padding:10px;">
+    <p>Frontend</p>
+    <div style="display: grid;">
+        <img src="/commons/stacks/React.png" width="80" /> 
+        <img src="/commons/stacks/typescript.png" width="80" /> 
+    </div>
+  </div>
+   <div style="display: inline; align-items: center; text-align: center;padding:10px;">
+    <p>Versioning</p>
+    <img src="/commons/stacks/github.png" width="80" /> 
   </div>
 </div>
 
@@ -25,8 +39,9 @@ The goal of the project is to make a workable chess game that you can play on yo
 
 Project situation :
 - [x] Scala backend
-- [ ] Scala API
+- [x] Scala API
 - [x] React frontend
+- [ ] Deployment (standby because free VM I found do not have enough RAM for  the Scala backend...)
 
 You can find the project source code on [GitHub](https://github.com/paulremondeau/chess).
 
@@ -108,6 +123,10 @@ To debug the main game, it was usefull to print the board in the terminal :
 The frontend of the application is made in React and TypeScript. 
 
 ![BDD](/commons/chess/chess_board_react.png)
-*The chess board of the application*
+*The chess board of the React application. Here white has its king in check and must defend it. It can for example move the selected knight on e4 on the only two valid squares d2 and c4*
 
+## Deployment
 
+I built the docker image and tried to deploy it on Azure (Web app, Kubernetes) but the free tier ressources are not big enough to compile the Scala backend...
+
+To be continued...

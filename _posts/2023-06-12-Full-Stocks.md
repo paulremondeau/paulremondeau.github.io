@@ -2,7 +2,7 @@
 title: Full Stocks
 date: 2023-06-12 16:50:00 +0200
 categories: [Project]
-tags: [python, vue.js, fullstack, rest]     # TAG names should always be lowercase
+tags: [python, vue, docker, rest]     # TAG names should always be lowercase
 author: paul_remondeau
 image:
   path: /commons/fullstocks/fullstocks_preview.png

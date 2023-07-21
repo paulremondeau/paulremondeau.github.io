@@ -21,6 +21,8 @@ All of them are open source and can be found on my [github](https://github.com/p
 * ## Backend
     * Python 3
     * Flask (sqlalchemy, marshmallow)
+    * Scala
+    * Http4s
 
 * ## Frontend
     * HTML 5
@@ -29,10 +31,13 @@ All of them are open source and can be found on my [github](https://github.com/p
     * Javascript
     * Vue3
     * React
+    * Typescript
 
 * ## Misc
     * SQL
     * Git (GitHub, GitLab)
+    * Docker
+    * CI/CD
 
 
 
