@@ -2,7 +2,7 @@
 title: A chess game
 date: 2023-07-11 17:06:00 +0200
 categories: [Project]
-tags: [scala, react, typescript, docker]     # TAG names should always be lowercase
+tags: [scala, react, typescript, docker, cloud, google cloud]     # TAG names should always be lowercase
 author: paul_remondeau
 image:
   path: /commons/chess/chess_board_react_preview.png
@@ -29,6 +29,13 @@ This project is a self-made chess game built with :
         <img src="/commons/stacks/typescript.png" width="80" /> 
     </div>
   </div>
+   <div style="display: inline; align-items: center; text-align: center; padding:10px;">
+    <p>Deployment</p>
+    <div style="display: grid;">
+        <img src="/commons/stacks/docker.png" width="80" /> 
+        <img src="/commons/stacks/googlecloud.png" width="80" /> 
+    </div>
+  </div>
    <div style="display: inline; align-items: center; text-align: center;padding:10px;">
     <p>Versioning</p>
     <img src="/commons/stacks/github.png" width="80" /> 
@@ -41,9 +48,11 @@ Project situation :
 - [x] Scala backend
 - [x] Scala API
 - [x] React frontend
-- [ ] Deployment (standby because free VM I found do not have enough RAM for  the Scala backend...)
+- [x] Deployed on Google Cloud
 
 You can find the project source code on [GitHub](https://github.com/paulremondeau/chess).
+
+You can play with the application on this [link](https://chess-frontend-27lngjqnaq-od.a.run.app/).
 
 ## Why this project
 
@@ -127,6 +136,4 @@ The frontend of the application is made in React and TypeScript.
 
 ## Deployment
 
-I built the docker image and tried to deploy it on Azure (Web app, Kubernetes) but the free tier ressources are not big enough to compile the Scala backend...
-
-To be continued...
+Both the backend and the frontend are built with docker and deployed to Google cloud. 
