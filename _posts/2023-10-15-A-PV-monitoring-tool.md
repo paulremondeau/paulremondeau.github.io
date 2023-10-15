@@ -16,8 +16,8 @@ This project is a PV analysis tool built with :
   <div style="display: inline; align-items: center; text-align: center; padding:10px;">
     <p>Backend</p>
     <div style="display: grid;">
-        <img src="/commons/stacks/python.png" width="80" /> 
-         <img src="/commons/stacks/flask.png" width="80" /> 
+        <img src="/commons/stacks/python.png" width="80" alt="python"/> 
+         <img src="/commons/stacks/flask.png" width="80" alt="flask"/> 
     </div>
 
   
@@ -25,20 +25,20 @@ This project is a PV analysis tool built with :
   <div style="display: inline; align-items: center; text-align: center; padding:10px;">
     <p>Frontend</p>
     <div style="display: grid;">
-        <img src="/commons/stacks/React.png" width="80" /> 
-        <img src="/commons/stacks/typescript.png" width="80" /> 
+        <img src="/commons/stacks/React.png" width="80" alt="react"/> 
+        <img src="/commons/stacks/typescript.png" width="80" alt="typescript"/> 
     </div>
   </div>
    <div style="display: inline; align-items: center; text-align: center; padding:10px;">
     <p>Deployment</p>
     <div style="display: grid;">
-        <img src="/commons/stacks/docker.png" width="80" /> 
-        <img src="/commons/stacks/googlecloud.png" width="80" /> 
+        <img src="/commons/stacks/docker.png" width="80" alt="docker"/> 
+        <img src="/commons/stacks/googlecloud.png" width="80" alt="googlecloud"/> 
     </div>
   </div>
    <div style="display: inline; align-items: center; text-align: center;padding:10px;">
     <p>Versioning</p>
-    <img src="/commons/stacks/github.png" width="80" /> 
+    <img src="/commons/stacks/github.png" width="80" alt="github"/> 
   </div>
 </div>
 

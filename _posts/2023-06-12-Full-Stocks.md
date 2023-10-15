@@ -19,29 +19,29 @@ This project is a full stack web-application made in :
   <div style="display: inline; align-items: center; text-align: center">
     <p>Backend</p>
     <div>
-        <img src="/commons/stacks/python.png" width="80" /> 
+        <img src="/commons/stacks/python.png" width="80" alt="python"/> 
     </div>
   </div>
   <div style="display: inline; align-items: center; text-align: center">
     <p>Frontend</p>
-    <img src="/commons/stacks/Vue.png" width="80" />
+    <img src="/commons/stacks/Vue.png" width="80" alt="vue"/>
   </div>
   <div style="display: inline; align-items: center; text-align: center">
     <p>Database</p>
     <div style="display: grid;">
-        <img src="/commons/stacks/sql.png" width="100" /> 
-        <img src="/commons/stacks/rest.png" width="100" />
+        <img src="/commons/stacks/sql.png" width="100" alt="sql"/> 
+        <img src="/commons/stacks/rest.png" width="100" alt="rest"/>
     </div>
  </div>
 
   <div style="display: inline; align-items: center; text-align: center">
     <p>Deployment</p>
-    <img src="/commons/stacks/docker.png" width="80" /> 
+    <img src="/commons/stacks/docker.png" width="80" alt="docker"/> 
   </div>
 
   <div style="display: inline; align-items: center; text-align: center">
     <p>Versioning</p>
-    <img src="/commons/stacks/github.png" width="80" /> 
+    <img src="/commons/stacks/github.png" width="80" alt="github"/> 
   </div>
 
 </div>

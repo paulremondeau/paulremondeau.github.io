@@ -16,8 +16,8 @@ This project is a self-made chess game built with :
   <div style="display: inline; align-items: center; text-align: center; padding:10px;">
     <p>Backend</p>
     <div style="display: grid;">
-        <img src="/commons/stacks/scala.png" width="80" /> 
-         <img src="/commons/stacks/scala_http4s.svg" width="80" /> 
+        <img src="/commons/stacks/scala.png" width="80" alt="scala"/> 
+         <img src="/commons/stacks/scala_http4s.svg" width="80" alt="http4s"/> 
     </div>
 
   
@@ -25,20 +25,20 @@ This project is a self-made chess game built with :
   <div style="display: inline; align-items: center; text-align: center; padding:10px;">
     <p>Frontend</p>
     <div style="display: grid;">
-        <img src="/commons/stacks/React.png" width="80" /> 
-        <img src="/commons/stacks/typescript.png" width="80" /> 
+        <img src="/commons/stacks/React.png" width="80" alt="react"/> 
+        <img src="/commons/stacks/typescript.png" width="80" alt="typescript"/> 
     </div>
   </div>
    <div style="display: inline; align-items: center; text-align: center; padding:10px;">
     <p>Deployment</p>
     <div style="display: grid;">
-        <img src="/commons/stacks/docker.png" width="80" /> 
-        <img src="/commons/stacks/googlecloud.png" width="80" /> 
+        <img src="/commons/stacks/docker.png" width="80" alt="docker"/> 
+        <img src="/commons/stacks/googlecloud.png" width="80" alt="googlecloud"/> 
     </div>
   </div>
    <div style="display: inline; align-items: center; text-align: center;padding:10px;">
     <p>Versioning</p>
-    <img src="/commons/stacks/github.png" width="80" /> 
+    <img src="/commons/stacks/github.png" width="80" alt="github"/> 
   </div>
 </div>
 
@@ -78,30 +78,30 @@ For reminder, pieces move like this :
 
   <div style="display: flex; align-items:center; text-align: center">
     <div style="display: inline; align-items: center; text-align: center">
-        <img src="/commons/chess/Pawn.gif" width="250" /> 
+        <img src="/commons/chess/Pawn.gif" width="250" alt="pawn"/> 
         <figcaption>Pawn movements</figcaption>
     </div>
     <div style="display: inline; align-items: center; text-align: center">
-        <img src="/commons/chess/Rook.gif" width="250" /> 
+        <img src="/commons/chess/Rook.gif" width="250" alt="rook"/> 
         <figcaption>Rook movements</figcaption>
     </div>
     <div style="display: inline; align-items: center; text-align: center">
-        <img src="/commons/chess/Bishop.gif" width="250" /> 
+        <img src="/commons/chess/Bishop.gif" width="250" alt="bishop"/> 
         <figcaption>Bishop movements</figcaption>
     </div>
   </div>
 
   <div style="display: flex; align-items:center; text-align: center">
     <div style="display: inline; align-items: center; text-align: center">
-        <img src="/commons/chess/Knight.gif" width="250" /> 
+        <img src="/commons/chess/Knight.gif" width="250" alt="knight"/> 
         <figcaption>Knight movements</figcaption>
     </div>
     <div style="display: inline; align-items: center; text-align: center">
-        <img src="/commons/chess/Queen.gif" width="250" /> 
+        <img src="/commons/chess/Queen.gif" width="250" alt="queen"/> 
         <figcaption>Queen movements</figcaption>
     </div>
     <div style="display: inline; align-items: center; text-align: center">
-        <img src="/commons/chess/King.gif" width="250" /> 
+        <img src="/commons/chess/King.gif" width="250" alt="king"/> 
         <figcaption>King movements</figcaption>
     </div>
   </div>
