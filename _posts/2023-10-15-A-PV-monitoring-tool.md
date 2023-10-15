@@ -10,7 +10,7 @@ image:
 katex: true
 ---
 
-This project is a self-made chess game built with :
+This project is a PV analysis tool built with :
 
 <div style="display: flex; justify-content: space-evenly">
   <div style="display: inline; align-items: center; text-align: center; padding:10px;">
